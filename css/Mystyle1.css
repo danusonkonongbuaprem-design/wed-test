@@ -1,0 +1,31 @@
+/* พื้นหลังเว็บ */
+body{
+    font-family: Arial;
+    background-color: #8B0000;
+    color: white;
+    margin: 0;
+}
+
+/* กล่องเนื้อหา */
+.container{
+    width: 800px;
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+}
+
+/* หัวข้อ */
+h1{
+    color: yellow;
+}
+
+/* รูปภาพ */
+img{
+    width: 300px;
+    margin: 20px;
+}
+
+/* เนื้อเพลง */
+.lyrics{
+    line-height: 1.8;
+}
